@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"o_defender","path":"objects/o_defender/o_defender.yy",},"order":0,},
+    {"id":{"name":"s_defender","path":"sprites/s_defender/s_defender.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
