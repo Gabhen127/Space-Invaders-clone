@@ -1,2 +1,2 @@
 /// @description move right
-x = x+3;
+x = x+5;
