@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.75,
+  "volume": 0.8,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "Boss_Music_1.mp3",
+  "soundFile": "a_mainFight_music.mp3",
   "duration": 256.208984,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Boss_Music_1",
+  "name": "a_mainFight_music",
   "tags": [],
   "resourceType": "GMSound",
 }
