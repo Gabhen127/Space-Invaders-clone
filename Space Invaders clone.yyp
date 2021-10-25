@@ -1,7 +1,11 @@
 {
   "resources": [
     {"id":{"name":"o_defender","path":"objects/o_defender/o_defender.yy",},"order":0,},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},"order":0,},
+    {"id":{"name":"s_asteroid","path":"sprites/s_asteroid/s_asteroid.yy",},"order":2,},
+    {"id":{"name":"o_enemy_parent","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"order":3,},
     {"id":{"name":"a_mainFight_music","path":"sounds/a_mainFight_music/a_mainFight_music.yy",},"order":2,},
+    {"id":{"name":"score_counter","path":"scripts/score_counter/score_counter.yy",},"order":5,},
     {"id":{"name":"Boss_Music_2","path":"sounds/Boss_Music_2/Boss_Music_2.yy",},"order":3,},
     {"id":{"name":"boss_laser","path":"sounds/boss_laser/boss_laser.yy",},"order":0,},
     {"id":{"name":"space_blunderbuss","path":"sounds/space_blunderbuss/space_blunderbuss.yy",},"order":1,},
@@ -9,6 +13,7 @@
     {"id":{"name":"o_UI","path":"objects/o_UI/o_UI.yy",},"order":2,},
     {"id":{"name":"s_bullet","path":"sprites/s_bullet/s_bullet.yy",},"order":1,},
     {"id":{"name":"o_shots","path":"objects/o_shots/o_shots.yy",},"order":1,},
+    {"id":{"name":"o_asteroid","path":"objects/o_asteroid/o_asteroid.yy",},"order":4,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
