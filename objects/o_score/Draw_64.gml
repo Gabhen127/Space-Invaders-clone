@@ -1,9 +1,9 @@
-/// @description Insert description here
+/// @description score ui
 var _score = 0;
-var _total_enemy_number = instance_number(o_enemy_parent);
+var _total_enemy_number = 4;
 var _enemy_number = instance_number(o_enemy_parent);
 
-if (_enemy_number <= _total_enemy_number){
+if (_enemy_number < _total_enemy_number){
 	_score += 1;
 }
 

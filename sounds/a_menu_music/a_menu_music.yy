@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "Boss_Music_2.ogg",
+  "soundFile": "a_menu_music.ogg",
   "duration": 207.629959,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Boss_Music_2",
+  "name": "a_menu_music",
   "tags": [],
   "resourceType": "GMSound",
 }
