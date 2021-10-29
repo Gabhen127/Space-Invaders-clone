@@ -1,8 +1,6 @@
 /// @description music
 
+//This is the main music
+audio_play_sound(a_menu_music, 4, true);
 
-//draw_set_font(Font1);
-//score = 0;
-
-//This is the main fighting music(no boss)
-
+//There were plans for more music but they have been postponed.

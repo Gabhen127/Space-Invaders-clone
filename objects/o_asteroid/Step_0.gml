@@ -1,2 +1,2 @@
 /// @description gravity
-y = y + enemy_speed;
+y = y + random_range(0.25, 1.5);

@@ -1,6 +1,6 @@
 /// @description fire
 if (keyboard_check_pressed(vk_space)){
-	audio_play_sound(space_blunderbuss, 4, false);
+	audio_play_sound(a_space_blunderbuss, 4, false);
 
 	//This code generates the ammunition.
 	var _distance = sprite_get_width(sprite_index)/2;
