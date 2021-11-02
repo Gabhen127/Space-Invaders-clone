@@ -19,6 +19,7 @@
     {"id":{"name":"a_space_blunderbuss","path":"sounds/a_space_blunderbuss/a_space_blunderbuss.yy",},"order":1,},
     {"id":{"name":"s_alien_ship","path":"sprites/s_alien_ship/s_alien_ship.yy",},"order":4,},
     {"id":{"name":"s_boss_blast","path":"sprites/s_boss_blast/s_boss_blast.yy",},"order":7,},
+    {"id":{"name":"o_stray_blast","path":"objects/o_stray_blast/o_stray_blast.yy",},"order":15,},
     {"id":{"name":"o_score","path":"objects/o_score/o_score.yy",},"order":5,},
     {"id":{"name":"start_screen","path":"rooms/start_screen/start_screen.yy",},"order":1,},
     {"id":{"name":"s_defender","path":"sprites/s_defender/s_defender.yy",},"order":0,},

@@ -99,11 +99,13 @@ if (_enemy_number < 0){
 	_score += 5;
 }
 
-var _boss = instance_find(o_boss, 1);
+
+
+/*var _boss = instance_find(o_boss, 1);
 
 if (_boss = noone){
 	_score += 10;
-}
+}*/
 
 draw_sprite(s_score, 0, 20, 10);
-draw_text(60, 27, _score)
+draw_text(50, 27, _score)
