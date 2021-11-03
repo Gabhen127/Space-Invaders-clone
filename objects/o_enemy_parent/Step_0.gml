@@ -1,2 +1,2 @@
 /// @description Insert description here
-y = y + (enemy_speed * 2);
+y = y + enemy_speed
