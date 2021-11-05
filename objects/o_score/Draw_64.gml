@@ -3,6 +3,42 @@ var _score = 0;
 //var _total_enemy_number = 10;
 var _enemy_number = instance_number(o_enemy_parent);
 
+if (_enemy_number < 53){
+	_score += 5;
+}
+
+if (_enemy_number < 52){
+	_score += 5;
+}
+
+if (_enemy_number < 51){
+	_score += 5;
+}
+
+if (_enemy_number < 50){
+	_score += 5;
+}
+
+if (_enemy_number < 49){
+	_score += 5;
+}
+
+if (_enemy_number < 48){
+	_score += 5;
+}
+
+if (_enemy_number < 47){
+	_score += 5;
+}
+
+if (_enemy_number < 46){
+	_score += 5;
+}
+
+if (_enemy_number < 45){
+	_score += 5;
+}
+
 if (_enemy_number < 44){
 	_score += 5;
 }
