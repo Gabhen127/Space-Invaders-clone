@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description kill player
 instance_destroy();
 
 room_goto(DeathScreen);
