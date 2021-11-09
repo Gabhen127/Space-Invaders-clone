@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description damage_enemy
 
 instance_destroy()
 

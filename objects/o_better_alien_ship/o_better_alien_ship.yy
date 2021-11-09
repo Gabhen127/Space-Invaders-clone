@@ -26,7 +26,7 @@
   "eventList": [],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"enemy_speed","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"objectId":{"name":"o_enemy_parent","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"value":"1.2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"enemy_speed","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"objectId":{"name":"o_enemy_parent","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"value":"1.5","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",

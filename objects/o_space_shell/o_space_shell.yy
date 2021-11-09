@@ -28,7 +28,7 @@
   ],
   "properties": [],
   "overriddenProperties": [
-    {"propertyId":{"name":"enemy_speed","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"objectId":{"name":"o_enemy_parent","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"enemy_speed","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"objectId":{"name":"o_enemy_parent","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"armor","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"objectId":{"name":"o_enemy_parent","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
     {"propertyId":{"name":"max_armor","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"objectId":{"name":"o_enemy_parent","path":"objects/o_enemy_parent/o_enemy_parent.yy",},"value":"1","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],

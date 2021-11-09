@@ -3,6 +3,214 @@ var _score = 0;
 //var _total_enemy_number = 10;
 var _enemy_number = instance_number(o_enemy_parent);
 
+if (_enemy_number < 100){
+	_score += 5;
+}
+
+
+if (_enemy_number < 99){
+	_score += 5;
+}
+
+
+if (_enemy_number < 98){
+	_score += 5;
+}
+
+
+if (_enemy_number < 97){
+	_score += 5;
+}
+
+
+if (_enemy_number < 96){
+	_score += 5;
+}
+
+
+if (_enemy_number < 95){
+	_score += 5;
+}
+
+
+if (_enemy_number < 94){
+	_score += 5;
+}
+
+
+if (_enemy_number < 93){
+	_score += 5;
+}
+
+
+if (_enemy_number < 92){
+	_score += 5;
+}
+
+
+if (_enemy_number < 91){
+	_score += 5;
+}
+
+
+if (_enemy_number < 90){
+	_score += 5;
+}
+
+
+if (_enemy_number < 89){
+	_score += 5;
+}
+
+
+if (_enemy_number < 88){
+	_score += 5;
+}
+
+
+if (_enemy_number < 87){
+	_score += 5;
+}
+
+
+if (_enemy_number < 86){
+	_score += 5;
+}
+
+
+if (_enemy_number < 85){
+	_score += 5;
+}
+
+
+if (_enemy_number < 84){
+	_score += 5;
+}
+
+
+if (_enemy_number < 83){
+	_score += 5;
+}
+
+
+if (_enemy_number < 82){
+	_score += 5;
+}
+
+
+if (_enemy_number < 81){
+	_score += 5;
+}
+
+
+if (_enemy_number < 80){
+	_score += 5;
+}
+
+if (_enemy_number < 79){
+	_score += 5;
+}
+
+if (_enemy_number < 78){
+	_score += 5;
+}
+
+if (_enemy_number < 77){
+	_score += 5;
+}
+
+if (_enemy_number < 76){
+	_score += 5;
+}
+
+if (_enemy_number < 75){
+	_score += 5;
+}
+
+if (_enemy_number < 74){
+	_score += 5;
+}
+
+if (_enemy_number < 73){
+	_score += 5;
+}
+
+if (_enemy_number < 72){
+	_score += 5;
+}
+
+if (_enemy_number < 71){
+	_score += 5;
+}
+
+if (_enemy_number < 70){
+	_score += 5;
+}
+
+if (_enemy_number < 69){
+	_score += 5;
+}
+
+if (_enemy_number < 68){
+	_score += 5;
+}
+
+if (_enemy_number < 67){
+	_score += 5;
+}
+
+if (_enemy_number < 66){
+	_score += 5;
+}
+
+if (_enemy_number < 65){
+	_score += 5;
+}
+
+if (_enemy_number < 64){
+	_score += 5;
+}
+
+if (_enemy_number < 63){
+	_score += 5;
+}
+
+if (_enemy_number < 62){
+	_score += 5;
+}
+
+if (_enemy_number < 61){
+	_score += 5;
+}
+
+if (_enemy_number < 60){
+	_score += 5;
+}
+
+if (_enemy_number < 59){
+	_score += 5;
+}
+
+if (_enemy_number < 58){
+	_score += 5;
+}
+
+if (_enemy_number < 57){
+	_score += 5;
+}
+
+if (_enemy_number < 56){
+	_score += 5;
+}
+
+if (_enemy_number < 55){
+	_score += 5;
+}
+
+if (_enemy_number < 54){
+	_score += 5;
+}
+
 if (_enemy_number < 53){
 	_score += 5;
 }
@@ -215,17 +423,10 @@ if (_enemy_number < 1){
 	_score += 5;
 }
 
-if (_enemy_number < 0){
-	_score += 5;
+if (_enemy_number <= 0){
+	room_goto(Win);
 }
 
-
-
-/*var _boss = instance_find(o_boss, 1);
-
-if (_boss = noone){
-	_score += 10;
-}*/
 
 draw_sprite(s_score, 0, 20, 10);
 draw_text(50, 27, _score)
