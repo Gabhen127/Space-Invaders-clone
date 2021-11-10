@@ -1,5 +1,5 @@
 /// @description fire blast
-
+//The boss has the ability to shoot blasts of energy towards the player.
 //This code sets variables used for the blast
 var _defender = instance_find(o_defender, 0);
 if (_defender == noone) exit;
@@ -15,6 +15,5 @@ if (y >= 0){
 	
 }
 //This is the fire rate
-
-
+//The boss fires at a steady pace.
 alarm[0] = fire_rate;

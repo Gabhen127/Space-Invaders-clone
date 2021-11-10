@@ -1,6 +1,8 @@
 /// @description score ui
+
+/*I do apologise if this code is long and tedious,
+but it is how the score works in the game.*/
 var _score = 0;
-//var _total_enemy_number = 10;
 var _enemy_number = instance_number(o_enemy_parent);
 
 if (_enemy_number < 100){
@@ -427,6 +429,6 @@ if (_enemy_number <= 0){
 	room_goto(Win);
 }
 
-
+//This code creates the score icon on the screen.
 draw_sprite(s_score, 0, 20, 10);
 draw_text(50, 27, _score)
