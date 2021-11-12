@@ -12,6 +12,7 @@
     {"id":{"name":"a_menu_music","path":"sounds/a_menu_music/a_menu_music.yy",},"order":3,},
     {"id":{"name":"DeathScreen","path":"rooms/DeathScreen/DeathScreen.yy",},"order":2,},
     {"id":{"name":"o_space_tank","path":"objects/o_space_tank/o_space_tank.yy",},"order":18,},
+    {"id":{"name":"o_atmosphere","path":"objects/o_atmosphere/o_atmosphere.yy",},"order":20,},
     {"id":{"name":"a_blast","path":"sounds/a_blast/a_blast.yy",},"order":0,},
     {"id":{"name":"o_space_shell","path":"objects/o_space_shell/o_space_shell.yy",},"order":16,},
     {"id":{"name":"s_better_alien_ship","path":"sprites/s_better_alien_ship/s_better_alien_ship.yy",},"order":5,},
