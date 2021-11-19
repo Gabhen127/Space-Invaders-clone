@@ -4,6 +4,8 @@
 but it is how the score works in the game.*/
 var _score = 0;
 var _enemy_number = instance_number(o_enemy_parent);
+//This variable controls the level that the game is on.
+var _level = "level 1";
 
 if (_enemy_number < 100){
 	_score += 5;
@@ -159,6 +161,7 @@ if (_enemy_number < 68){
 
 if (_enemy_number < 67){
 	_score += 5;
+	_level = "level 2";
 }
 
 if (_enemy_number < 66){
@@ -287,6 +290,7 @@ if (_enemy_number < 36){
 
 if (_enemy_number < 35){
 	_score += 5;
+	_level = "level 3";
 }
 
 if (_enemy_number < 34){
@@ -432,3 +436,7 @@ if (_enemy_number <= 0){
 //This code creates the score icon on the screen.
 draw_sprite(s_score, 0, 20, 10);
 draw_text(50, 27, _score)
+
+//This code shows the level
+draw_sprite(s_score, 0, 1220, 10);
+draw_text(1220, 27, _level)

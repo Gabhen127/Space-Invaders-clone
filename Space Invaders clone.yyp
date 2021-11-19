@@ -25,6 +25,7 @@
     {"id":{"name":"s_boss","path":"sprites/s_boss/s_boss.yy",},"order":6,},
     {"id":{"name":"a_space_blunderbuss","path":"sounds/a_space_blunderbuss/a_space_blunderbuss.yy",},"order":1,},
     {"id":{"name":"s_alien_ship","path":"sprites/s_alien_ship/s_alien_ship.yy",},"order":4,},
+    {"id":{"name":"o_quit","path":"objects/o_quit/o_quit.yy",},"order":21,},
     {"id":{"name":"a_big_explosion","path":"sounds/a_big_explosion/a_big_explosion.yy",},"order":4,},
     {"id":{"name":"s_boss_blast","path":"sprites/s_boss_blast/s_boss_blast.yy",},"order":7,},
     {"id":{"name":"s_space_tank","path":"sprites/s_space_tank/s_space_tank.yy",},"order":10,},
