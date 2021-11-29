@@ -94,6 +94,7 @@ if (_enemy_number < 84){
 
 if (_enemy_number < 83){
 	_score += 5;
+	_level = "level 2";
 }
 
 
@@ -161,7 +162,6 @@ if (_enemy_number < 68){
 
 if (_enemy_number < 67){
 	_score += 5;
-	_level = "level 2";
 }
 
 if (_enemy_number < 66){
