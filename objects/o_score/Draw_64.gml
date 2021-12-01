@@ -435,8 +435,8 @@ if (_enemy_number <= 0){
 
 //This code creates the score icon on the screen.
 draw_sprite(s_score, 0, 20, 10);
-draw_text(50, 27, _score)
+draw_text(50, 30, _score)
 
 //This code shows the level
 draw_sprite(s_score, 0, 1220, 10);
-draw_text(1220, 27, _level)
+draw_text(1225, 30, _level)
