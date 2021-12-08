@@ -358,11 +358,11 @@ if (_enemy_number < 19){
 
 if (_enemy_number < 18){
 	_score += 5;
+	_level = "level 3";
 }
 
 if (_enemy_number < 17){
 	_score += 5;
-	_level = "level 3";
 }
 
 if (_enemy_number < 16){
